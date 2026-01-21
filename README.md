@@ -13,13 +13,13 @@
 
 ## Connect with Me  
 <p align="left">
-  <a href="https://fb.com/dewan salman rahman zisan" target="_blank">
+  <a href="https://www.facebook.com/rip.wrench" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
          alt="Facebook" height="30" width="40" />
   </a>
   <a href="www.linkedin.com/in/dewan-zisan-81052224b" target="_blank">
-    <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+    <img align="center" width="40" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 </p>
 
