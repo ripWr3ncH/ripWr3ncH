@@ -19,7 +19,7 @@
          alt="Facebook" height="30" width="40" />
   </a>
   <a href="www.linkedin.com/in/dewan-zisan-81052224b" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+    <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 </p>
 
