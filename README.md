@@ -5,7 +5,7 @@
 
 ## About Me  
 - Currently pursuing **BSc in Computer Science & Engineering at KUET**  
-- Interested in **Web Development, Machine Learning, and Problem Solving**  
+- Interested in **Web Development, Machine Learning, Problem Solving, Microservice and DevOps**  
 - Email: **dewanzisan1@gmail.com**  
 - Fun fact: I enjoy learning and experimenting with new technologies regularly
 
