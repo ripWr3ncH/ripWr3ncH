@@ -1,26 +1,25 @@
-<h1 align="center">Hi, I'm Dewan Salman Rahman Zisan</h1>
+<h1 align="center">Hi 👋, I'm Dewan Salman Rahman Zisan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;ML+Expert" alt="Typing Animation" />
+</p>
 <h3 align="center">Computer Science & Engineering Student | KUET</h3>
 
 ---
 
 ## About Me  
-- Currently pursuing **BSc in Computer Science & Engineering at KUET**  
-- Interested in **Web Development, Machine Learning, Problem Solving, Microservice and DevOps**  
-- Email: **dewanzisan1@gmail.com**
-- Portfolio: **https://portfolio-zisan.vercel.app/**
-- Fun fact: I enjoy learning and experimenting with new technologies regularly
+- 🎓 Currently pursuing **BSc in Computer Science & Engineering at KUET** - 🚀 Interested in **Web Development, Machine Learning, Problem Solving, Microservices, and DevOps** - 📧 Email: **dewanzisan1@gmail.com**
+- 🌐 Portfolio: **https://portfolio-zisan.vercel.app/**
+- ⚡ Fun fact: I enjoy learning and experimenting with new technologies regularly
 
 ---
 
 ## Connect with Me  
 <p align="left">
   <a href="https://www.facebook.com/rip.wrench" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" />
   </a>
   <a href="https://www.linkedin.com/in/dewan-salman-rahman-zisan-81052224b/" target="_blank">
-    <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+    <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="35" width="35" />
   </a>
 </p>
 
