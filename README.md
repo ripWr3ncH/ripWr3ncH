@@ -1,104 +1,148 @@
-<div align="center">
+<h1 align="center">Dewan Salman Rahman Zisan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dewan%20Salman%20Rahman%20Zisan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20KUET&descAlignY=58&descSize=18&descColor=a0b4c8" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;ML+Enthusiast;DevOps+%26+Microservices" alt="Typing Animation" />
+</p>
 
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer;Problem+Solver+%7C+Competitive+Programmer;Microservices+%26+DevOps+Enthusiast" alt="Typing Animation" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-zisan.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewanzisan1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dewan-salman-rahman-zisan-81052224b/)
-[![Facebook](https://img.shields.io/badge/Facebook-0f2027?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/rip.wrench)
-
-</div>
+<h3 align="center">Computer Science & Engineering Student — KUET</h3>
 
 ---
 
 ## About
 
-BSc student in Computer Science & Engineering at Khulna University of Engineering & Technology (KUET). My interests span full-stack web development, machine learning, competitive programming, microservices architecture, and DevOps practices. I enjoy learning and experimenting with new technologies regularly.
+- Currently pursuing **BSc in Computer Science & Engineering at KUET**
+- Interested in **Web Development, Machine Learning, Microservices, DevOps, and Problem Solving**
+- Email: **dewanzisan1@gmail.com**
+- Portfolio: **[portfolio-zisan.vercel.app](https://portfolio-zisan.vercel.app/)**
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.facebook.com/rip.wrench" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dewan-salman-rahman-zisan-81052224b/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  </a>
+</p>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank" title="Laravel">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+  </a>
+</p>
 
-**Tools & Platforms**
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Machine Learning & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank" title="Oracle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank" title="Redis">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.rabbitmq.com/" target="_blank" title="RabbitMQ">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="RabbitMQ" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
+  </a>
+</p>
 
 ---
 
-## GitHub Statistics
+## Machine Learning & AI
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ripwr3nch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripwr3nch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ripwr3nch&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-
-</div>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+  </a>
+</p>
 
 ---
 
-## Contribution Activity
+## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ripwr3nch&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## Visitor Count
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ripwr3nch&style=flat-square&color=36BCF7&label=Profile+Views)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ripwr3nch&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
