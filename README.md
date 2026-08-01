@@ -11,6 +11,7 @@
 ## About
 
 - Currently pursuing **BSc in Computer Science & Engineering at KUET**
+- Founder at **[Logarithm Studio](https://www.logarithmstudio.com/)**
 - Interested in **Web Development, Machine Learning, Microservices, DevOps, and Problem Solving**
 - Email: **dewanzisan1@gmail.com**
 - Portfolio: **[portfolio-zisan.vercel.app](https://portfolio-zisan.vercel.app/)**
@@ -71,6 +72,16 @@
 <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br>PyTorch</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br>TensorFlow</td>
 </tr></table>
+
+---
+
+## Achievements
+
+- 🏆 2nd Runners Up – BUET CSE Fest 2026 Hackathon (Microservices & DevOps)
+- 🏆 2nd Runners Up – IUT Techathon Nationals & Rover Summit 2026 Hackathon
+- 🥈 3rd Place – KUET HACK Project Showcasing
+- ⭐ Codeforces Pupil
+- 🎓 Eligible for Dean's List Award, 2nd Year
 
 ---
 
