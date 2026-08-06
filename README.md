@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;ML+Enthusiast;DevOps+%26+Microservices" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ripwr3nch&label=Profile+Views&color=ff1493&style=flat-square" alt="Profile Views" />
-</p>
-
 <h3 align="center">Computer Science & Engineering Student — KUET</h3>
 
 ---
@@ -81,6 +77,7 @@
 
 ## Achievements
 
+- 🏆 Champions – July Hackathon 2026 (Crisis Tech)
 - 🏆 2nd Runners Up – BUET CSE Fest 2026 Hackathon (Microservices & DevOps)
 - 🏆 2nd Runners Up – IUT Techathon Nationals & Rover Summit 2026 Hackathon
 - 🥈 3rd Place – KUET HACK Project Showcasing
@@ -96,11 +93,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripwr3nch&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripwr3nch&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ripwr3nch&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripwr3nch&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/followers/ripwr3nch?style=for-the-badge&logo=github&color=ff1493&labelColor=1a1b27" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ripwr3nch?style=for-the-badge&logo=github&color=ff1493&labelColor=1a1b27" alt="Stars" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ripwr3nch&label=PROFILE+VIEWS&color=ff1493&style=for-the-badge" alt="Profile Views" />
 </p>
