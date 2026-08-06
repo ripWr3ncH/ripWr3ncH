@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;ML+Enthusiast;DevOps+%26+Microservices" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ripwr3nch&label=Profile+Views&color=ff1493&style=flat-square" alt="Profile Views" />
+</p>
+
 <h3 align="center">Computer Science & Engineering Student — KUET</h3>
 
 ---
@@ -92,9 +96,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripwr3nch&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ripwr3nch&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripwr3nch&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripwr3nch&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
