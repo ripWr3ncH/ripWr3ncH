@@ -10,8 +10,9 @@
 
 ## About
 
-- Currently pursuing **BSc in Computer Science & Engineering at KUET**
 - Founder at **[Logarithm Studio](https://www.logarithmstudio.com/)**
+- 4x National Hackathon Winner
+- Currently pursuing **BSc in Computer Science & Engineering at KUET**
 - Interested in **Web Development, Machine Learning, Microservices, DevOps, and Problem Solving**
 - Email: **dewanzisan1@gmail.com**
 - Portfolio: **[portfolio-zisan.vercel.app](https://portfolio-zisan.vercel.app/)**
@@ -82,7 +83,7 @@
 - 🏆 2nd Runners Up – IUT Techathon Nationals & Rover Summit 2026 Hackathon
 - 🥈 3rd Place – KUET HACK Project Showcasing
 - ⭐ Codeforces Pupil
-- 🎓 Eligible for Dean's List Award, 2nd Year
+- 🎓 Eligible for Dean's List Award, Year(2nd 3rd)
 
 ---
 
