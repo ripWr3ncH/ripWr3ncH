@@ -79,7 +79,7 @@
 ## Achievements
 
 - 🏆 Champions – JRA Foundation July Hackathon 2026 (Crisis Tech)
-- 🏆 Champions - Build with Gemma Hybrid Hackathon (Sponsored by Google)
+- 🏆 Champions – Build with Gemma Hybrid Hackathon (Sponsored by Google)
 - 🏆 2nd Runners Up – BUET CSE Fest 2026 Hackathon (Microservices & DevOps)
 - 🏆 2nd Runners Up – IUT Techathon Nationals & Rover Summit 2026 Hackathon
 - 🏆 2nd Runners Up – KUET HACK Project Showcasing
