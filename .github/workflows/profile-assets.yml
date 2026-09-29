@@ -1,5 +1,5 @@
 # Place this file at: .github/workflows/profile-assets.yml
-# in your profile repository (ripwr3nch/ripwr3nch).
+# in your profile repository (ripWr3ncH/ripWr3ncH).
 #
 # It builds the activity graph and the contribution snake inside GitHub Actions
 # and publishes both SVGs to the `output` branch, so the README no longer depends
@@ -31,7 +31,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Activity
+          options: bg_color=282C33&color=ABB2BF&title_color=C778DD&line=C778DD&point=FFFFFF&area_color=C778DD&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -40,8 +40,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-light&color_snake=#36BCF7
-            dist/snake-dark.svg?palette=github-dark&color_snake=#36BCF7
+            dist/snake.svg?palette=github-light&color_snake=#C778DD&color_dots=#EBEDF0,#EBD3F2,#DDB0EA,#D192E3,#C778DD
+            dist/snake-dark.svg?palette=github-dark&color_snake=#C778DD&color_dots=#2F343D,#4A3553,#6E4580,#9A5CB0,#C778DD
 
       - name: Publish SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
