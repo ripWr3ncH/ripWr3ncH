@@ -1,107 +1,108 @@
-<h1 align="center">Dewan Salman Rahman Zisan</h1>
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B3A5C,100:36BCF7&height=210&section=header&text=Dewan%20Salman%20Rahman%20Zisan&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=CSE%20%40%20KUET%20%20%E2%80%A2%20%20Founder%2C%20Logarithm%20Studio&descSize=17&descAlignY=58" alt="header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;ML+Enthusiast;DevOps+%26+Microservices" alt="Typing Animation" />
+  <a href="https://portfolio-zisan.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Microservices+%26+DevOps+Engineer;Machine+Learning+Enthusiast;4%C3%97+National+Hackathon+Winner;Competitive+Programmer+(Codeforces+Pupil)" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="center">Computer Science & Engineering Student — KUET</h3>
+<p align="center">
+  <a href="https://portfolio-zisan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=36BCF7" alt="Portfolio" /></a>
+  <a href="https://www.logarithmstudio.com/"><img src="https://img.shields.io/badge/Logarithm_Studio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" alt="Logarithm Studio" /></a>
+  <a href="https://www.linkedin.com/in/dewan-salman-rahman-zisan-81052224b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn" /></a>
+  <a href="mailto:dewanzisan1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" /></a>
+  <a href="https://www.facebook.com/rip.wrench"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=36BCF7" alt="Facebook" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ripwr3nch&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ripwr3nch?label=Followers&style=flat-square&color=36BCF7&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ripwr3nch?label=Stars&style=flat-square&color=36BCF7&labelColor=0D1117" alt="Stars" />
+</p>
 
 ---
 
-## About
+## About Me
 
-- Founder at **[Logarithm Studio](https://www.logarithmstudio.com/)**
-- 4x National Hackathon Winner
-- Currently pursuing **BSc in Computer Science & Engineering at KUET**
-- Interested in **Web Development, Machine Learning, Microservices, DevOps, and Problem Solving**
-- Email: **dewanzisan1@gmail.com**
-- Portfolio: **[portfolio-zisan.vercel.app](https://portfolio-zisan.vercel.app/)**
+I'm a Computer Science & Engineering undergraduate at **Khulna University of Engineering & Technology (KUET)** and the founder of **[Logarithm Studio](https://www.logarithmstudio.com/)**. I build production-minded web systems — from the frontend down to containerised, message-driven backends — and I'm increasingly bringing machine learning into the products I ship.
 
----
-
-## Connect
-
-<p align="left">
-  <a href="https://www.facebook.com/rip.wrench" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dewan-salman-rahman-zisan-81052224b/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
-</p>
+- **Building:** scalable web applications and microservice architectures
+- **Exploring:** applied machine learning, DevOps automation, and cloud-native tooling
+- **Practising:** competitive programming and algorithmic problem solving
+- **Open to:** internships, research collaborations, and hackathon teams
 
 ---
 
 ## Tech Stack
 
-**Languages**
-
-<table><tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br>PHP</td>
-</tr></table>
-
-**Frameworks & Libraries**
-
-<table><tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/><br>Laravel</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br>Node.js</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br>Bootstrap</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind</td>
-</tr></table>
-
-**Tools & Platforms**
-
-<table><tr>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br>Docker</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/><br>Kubernetes</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/><br>Oracle</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br>Redis</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/><br>RabbitMQ</td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/><br>Arduino</td>
-</tr></table>
-
----
-
-## Machine Learning & AI
-
-<table><tr>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br>PyTorch</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br>TensorFlow</td>
-</tr></table>
+<table>
+  <tr>
+    <td align="right" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend & Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps & Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions,rabbitmq&theme=dark" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases & Caching</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="Databases" />
+      &nbsp;<img src="https://img.shields.io/badge/Oracle_DB-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" height="36" alt="Oracle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Machine Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Hardware</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware" /></td>
+  </tr>
+</table>
 
 ---
 
 ## Achievements
 
-- 🏆 Champions – JRA Foundation July Hackathon 2026 (Crisis Tech)
-- 🏆 Champions – Build with Gemma Hybrid Hackathon (Sponsored by Google)
-- 🏆 2nd Runners Up – BUET CSE Fest 2026 Hackathon (Microservices & DevOps)
-- 🏆 2nd Runners Up – IUT Techathon Nationals & Rover Summit 2026 Hackathon
-- 🏆 2nd Runners Up – KUET HACK Project Showcasing
-- ⭐ Codeforces Pupil
-- 🎓 Eligible for Dean's List Award, Year(2nd 3rd)
+| | Result | Event | Track |
+|:-:|:--|:--|:--|
+| 🏆 | **Champion** | JRA Foundation July Hackathon 2026 | Crisis Tech |
+| 🏆 | **Champion** | Build with Gemma Hybrid Hackathon — sponsored by Google | Hybrid Hackathon |
+| 🥉 | **2nd Runner-up** | BUET CSE Fest 2026 Hackathon | Microservices & DevOps |
+| 🥉 | **2nd Runner-up** | IUT Techathon Nationals & Rover Summit 2026 | Hackathon Segment |
+| 🥉 | **2nd Runner-up** | KUET HACK | Project Showcasing |
+| ⭐ | **Pupil** | Codeforces | Competitive Programming |
+| 🎓 | **Dean's List eligible** | KUET | 2nd & 3rd Year |
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ripwr3nch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ripwr3nch&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ripwr3nch&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ripwr3nch?style=for-the-badge&logo=github&color=ff1493&labelColor=1a1b27" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ripwr3nch?style=for-the-badge&logo=github&color=ff1493&labelColor=1a1b27" alt="Stars" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ripwr3nch&label=PROFILE+VIEWS&color=ff1493&style=for-the-badge" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ripwr3nch/ripwr3nch/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ============================== FOOTER ============================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1B3A5C,100:0D1117&height=110&section=footer" alt="footer" />
 </p>
