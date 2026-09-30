@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portfolio-zisan.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Microservices+%26+DevOps+Engineer;Machine+Learning+Enthusiast;4%C3%97+National+Hackathon+Winner;Competitive+Programmer+(Codeforces+Pupil)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Microservices+%26+DevOps+Engineer;Machine+Learning+Enthusiast;4%C3%97+National+Hackathon+Winner;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,12 +27,7 @@
 
 ## #about-me
 
-I'm a Computer Science & Engineering undergraduate at **Khulna University of Engineering & Technology (KUET)** and the founder of **[Logarithm Studio](https://www.logarithmstudio.com/)**. I build production-minded web systems — from the frontend down to containerised, message-driven backends — and I'm increasingly bringing machine learning into the products I ship.
-
-- **Building:** scalable web applications and microservice architectures
-- **Exploring:** applied machine learning, DevOps automation, and cloud-native tooling
-- **Practising:** competitive programming and algorithmic problem solving
-- **Open to:** internships, research collaborations, and hackathon teams
+I'm a Computer Science & Engineering undergraduate at **Khulna University of Engineering & Technology (KUET)**, 4x **Hackathon** Winner and the founder of **[Logarithm Studio](https://www.logarithmstudio.com/)**.
 
 ---
 
