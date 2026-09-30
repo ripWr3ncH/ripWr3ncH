@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282C33,55:4A3553,100:C778DD&height=210&section=header&text=Dewan%20Salman%20Rahman%20Zisan&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=CSE%20%40%20KUET%20%20%E2%80%A2%20%20Founder%2C%20Logarithm%20Studio&descSize=17&descAlignY=58" alt="header" />
+  <img width="100%" src="./assets/header.svg" alt="Dewan Salman Rahman Zisan — CSE @ KUET • Founder, Logarithm Studio" />
 </p>
 
 <p align="center">
@@ -104,5 +104,5 @@ I'm a Computer Science & Engineering undergraduate at **Khulna University of Eng
 
 <!-- ============================== FOOTER ============================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C778DD,45:4A3553,100:282C33&height=110&section=footer" alt="footer" />
+  <img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
 </p>

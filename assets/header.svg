@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Dewan Salman Rahman Zisan - CSE @ KUET, Founder of Logarithm Studio">
+  <title>Dewan Salman Rahman Zisan</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B1E24"/><stop offset=".6" stop-color="#282C33"/><stop offset="1" stop-color="#3A2A45"/>
+    </linearGradient>
+    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A2A45"/><stop offset="1" stop-color="#1B1E24"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" x2="1">
+      <stop offset="0" stop-color="#C778DD" stop-opacity="0"/><stop offset=".5" stop-color="#C778DD"/><stop offset="1" stop-color="#C778DD" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/>
+    </linearGradient>
+    <mask id="gridMask"><rect x="0" y="232" width="1200" height="88" fill="url(#gridFade)"/></mask>
+    <radialGradient id="planet" cx=".35" cy=".3" r=".8">
+      <stop offset="0" stop-color="#E5A6F2"/><stop offset=".55" stop-color="#C778DD"/><stop offset="1" stop-color="#5B3470"/>
+    </radialGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#C778DD" stop-opacity=".45"/><stop offset="1" stop-color="#C778DD" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tail" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="neon" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feFlood flood-color="#C778DD" flood-opacity=".8"/><feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+    <clipPath id="ringFront"><rect x="-120" y="0" width="240" height="60"/></clipPath>
+    <clipPath id="typing">
+      <rect x="360" y="148" height="30" width="0">
+        <animate attributeName="width" values="0;480;480;0" keyTimes="0;.35;.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .star { fill:#fff; animation: twinkle 3s ease-in-out infinite; }
+    @keyframes twinkle { 0%,100% { opacity:.15 } 50% { opacity:1 } }
+    .grid line { stroke:#C778DD; stroke-width:1.2; }
+    .hl { animation: floor var(--dur) cubic-bezier(.6,0,1,.6) infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    :root { --dur:3.2s; }
+    @keyframes floor { 0% { transform:translateY(0); opacity:0 } 15% { opacity:1 } 100% { transform:translateY(88px); opacity:1 } }
+    .bob { animation: bob 3.2s ease-in-out infinite; }
+    @keyframes bob { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-12px) } }
+    .blink { transform-box:fill-box; transform-origin:center; animation: blink 4s infinite; }
+    @keyframes blink { 0%,44%,50%,100% { transform:scaleY(1) } 47% { transform:scaleY(.1) } }
+    .bulb { animation: bulb 1.2s steps(2) infinite; }
+    @keyframes bulb { 0% { fill:#C778DD } 100% { fill:#56B6C2 } }
+    .wave { transform-box:fill-box; transform-origin:0% 100%; animation: wave 1.6s ease-in-out infinite; }
+    @keyframes wave { 0%,100% { transform:rotate(0) } 50% { transform:rotate(-28deg) } }
+    .flame { transform-box:fill-box; transform-origin:50% 0%; animation: flame .18s ease-in-out infinite alternate; }
+    @keyframes flame { from { transform:scaleY(.7) } to { transform:scaleY(1.15) } }
+    .pulse { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:.35 } 50% { opacity:1 } }
+    .float { animation: float 6s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform:translateY(0) } 50% { transform:translateY(8px) } }
+    .orbit { transform-origin:1060px 112px; animation: spin 9s linear infinite; }
+    @keyframes spin { to { transform:rotate(360deg) } }
+    .shoot { animation: shoot 7s ease-in infinite; opacity:0; }
+    @keyframes shoot { 0% { transform:translate(0,0); opacity:0 } 2% { opacity:1 } 9% { transform:translate(-300px,110px); opacity:0 } 100% { opacity:0 } }
+    .ga { animation: glitchA 5s steps(1) infinite; }
+    .gb { animation: glitchB 5s steps(1) infinite; }
+    @keyframes glitchA { 0%,86%,96%,100% { transform:translate(0,0); opacity:0 } 87% { transform:translate(-5px,2px); opacity:.85 } 90% { transform:translate(4px,-1px); opacity:.85 } 93% { transform:translate(-2px,0); opacity:.85 } }
+    @keyframes glitchB { 0%,86%,96%,100% { transform:translate(0,0); opacity:0 } 87% { transform:translate(5px,-2px); opacity:.85 } 90% { transform:translate(-4px,1px); opacity:.85 } 93% { transform:translate(3px,1px); opacity:.85 } }
+    .cursor { animation: cur 1s steps(1) infinite; }
+    @keyframes cur { 50% { opacity:0 } }
+    .scan { animation: scan 6s linear infinite; }
+    @keyframes scan { from { transform:translateY(-10px) } to { transform:translateY(330px) } }
+    .hud { fill:none; stroke:#C778DD; stroke-width:2.5; stroke-linecap:round; }
+    .mono { font-family:'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#sky)"/>
+
+    <!-- stars -->
+    <circle class="star" cx="778" cy="25" r="2" style="animation-delay:-0.38s;animation-duration:3.54s"/>
+    <circle class="star" cx="1083" cy="56" r="0.8" style="animation-delay:-1.73s;animation-duration:2.36s"/>
+    <circle class="star" cx="117" cy="100" r="2" style="animation-delay:-0.5s;animation-duration:2.71s"/>
+    <circle class="star" cx="750" cy="211" r="2" style="animation-delay:-2.34s;animation-duration:2.31s"/>
+    <circle class="star" cx="271" cy="128" r="1" style="animation-delay:-1.16s;animation-duration:2.53s"/>
+    <circle class="star" cx="149" cy="75" r="1" style="animation-delay:-0.41s;animation-duration:3.51s"/>
+    <circle class="star" cx="232" cy="31" r="0.8" style="animation-delay:-2.26s;animation-duration:3.62s"/>
+    <circle class="star" cx="927" cy="109" r="1.6" style="animation-delay:-1.45s;animation-duration:2.77s"/>
+    <circle class="star" cx="222" cy="175" r="0.8" style="animation-delay:-2.3s;animation-duration:3.41s"/>
+    <circle class="star" cx="1043" cy="165" r="1.2" style="animation-delay:-2.44s;animation-duration:2.37s"/>
+    <circle class="star" cx="414" cy="208" r="1.6" style="animation-delay:-0.16s;animation-duration:3.74s"/>
+    <circle class="star" cx="912" cy="131" r="1.2" style="animation-delay:-1.36s;animation-duration:3.01s"/>
+    <circle class="star" cx="91" cy="30" r="1.2" style="animation-delay:-1.9s;animation-duration:3.73s"/>
+    <circle class="star" cx="82" cy="159" r="2" style="animation-delay:-3.97s;animation-duration:4.09s"/>
+    <circle class="star" cx="799" cy="15" r="1.6" style="animation-delay:-1.42s;animation-duration:3.61s"/>
+    <circle class="star" cx="480" cy="204" r="1.6" style="animation-delay:-0.32s;animation-duration:3.23s"/>
+    <circle class="star" cx="658" cy="197" r="1.6" style="animation-delay:-3.46s;animation-duration:2.84s"/>
+    <circle class="star" cx="1053" cy="213" r="1" style="animation-delay:-0.33s;animation-duration:2.55s"/>
+    <circle class="star" cx="787" cy="13" r="2" style="animation-delay:-0.73s;animation-duration:2.85s"/>
+    <circle class="star" cx="182" cy="123" r="2" style="animation-delay:-2.27s;animation-duration:4.39s"/>
+    <circle class="star" cx="74" cy="201" r="2" style="animation-delay:-1.57s;animation-duration:3.12s"/>
+    <circle class="star" cx="132" cy="144" r="0.8" style="animation-delay:-0.76s;animation-duration:4.46s"/>
+    <circle class="star" cx="530" cy="33" r="2" style="animation-delay:-0.21s;animation-duration:2.2s"/>
+    <circle class="star" cx="188" cy="32" r="1.2" style="animation-delay:-2.45s;animation-duration:2.36s"/>
+    <circle class="star" cx="255" cy="90" r="1.2" style="animation-delay:-3.82s;animation-duration:3.59s"/>
+    <circle class="star" cx="569" cy="34" r="1.6" style="animation-delay:-3.97s;animation-duration:3.27s"/>
+    <circle class="star" cx="581" cy="28" r="0.8" style="animation-delay:-3.0s;animation-duration:3.9s"/>
+    <circle class="star" cx="1133" cy="87" r="2" style="animation-delay:-3.66s;animation-duration:3.94s"/>
+    <circle class="star" cx="117" cy="189" r="2" style="animation-delay:-1.47s;animation-duration:2.58s"/>
+    <circle class="star" cx="921" cy="123" r="2" style="animation-delay:-1.32s;animation-duration:2.71s"/>
+    <circle class="star" cx="968" cy="219" r="1" style="animation-delay:-3.22s;animation-duration:4.08s"/>
+    <circle class="star" cx="44" cy="16" r="1.2" style="animation-delay:-1.89s;animation-duration:2.65s"/>
+    <circle class="star" cx="964" cy="163" r="1.2" style="animation-delay:-3.82s;animation-duration:3.04s"/>
+    <circle class="star" cx="270" cy="58" r="1" style="animation-delay:-1.35s;animation-duration:3.31s"/>
+    <circle class="star" cx="1173" cy="139" r="0.8" style="animation-delay:-1.92s;animation-duration:3.7s"/>
+    <circle class="star" cx="954" cy="28" r="0.8" style="animation-delay:-3.64s;animation-duration:4.0s"/>
+    <circle class="star" cx="221" cy="177" r="1.2" style="animation-delay:-0.35s;animation-duration:4.38s"/>
+    <circle class="star" cx="887" cy="28" r="1" style="animation-delay:-0.68s;animation-duration:2.49s"/>
+    <circle class="star" cx="188" cy="202" r="1" style="animation-delay:-2.45s;animation-duration:3.57s"/>
+    <circle class="star" cx="570" cy="209" r="1" style="animation-delay:-2.19s;animation-duration:2.5s"/>
+    <circle class="star" cx="27" cy="216" r="0.8" style="animation-delay:-2.11s;animation-duration:4.35s"/>
+    <circle class="star" cx="522" cy="195" r="1" style="animation-delay:-0.11s;animation-duration:2.69s"/>
+    <circle class="star" cx="994" cy="23" r="1.2" style="animation-delay:-3.59s;animation-duration:3.72s"/>
+    <circle class="star" cx="972" cy="120" r="2" style="animation-delay:-0.52s;animation-duration:2.55s"/>
+    <circle class="star" cx="612" cy="195" r="1" style="animation-delay:-2.43s;animation-duration:3.98s"/>
+    <circle class="star" cx="187" cy="40" r="2" style="animation-delay:-2.9s;animation-duration:3.48s"/>
+    <circle class="star" cx="135" cy="129" r="1" style="animation-delay:-0.77s;animation-duration:2.3s"/>
+    <circle class="star" cx="125" cy="106" r="0.8" style="animation-delay:-3.04s;animation-duration:4.3s"/>
+    <circle class="star" cx="1121" cy="158" r="1.2" style="animation-delay:-3.69s;animation-duration:4.25s"/>
+    <circle class="star" cx="249" cy="105" r="1.6" style="animation-delay:-0.49s;animation-duration:3.22s"/>
+    <circle class="star" cx="96" cy="61" r="0.8" style="animation-delay:-0.85s;animation-duration:2.9s"/>
+    <circle class="star" cx="154" cy="175" r="1.2" style="animation-delay:-0.57s;animation-duration:4.23s"/>
+    <circle class="star" cx="1152" cy="57" r="0.8" style="animation-delay:-1.59s;animation-duration:3.32s"/>
+    <circle class="star" cx="1178" cy="186" r="1" style="animation-delay:-2.83s;animation-duration:4.49s"/>
+    <circle class="star" cx="431" cy="30" r="1.2" style="animation-delay:-0.08s;animation-duration:3.47s"/>
+
+    <!-- shooting star -->
+    <g class="shoot"><line x1="880" y1="30" x2="960" y2="0" stroke="url(#tail)" stroke-width="2.5" stroke-linecap="round"/></g>
+
+    <!-- horizon glow + floor -->
+    <ellipse cx="600" cy="232" rx="520" ry="46" fill="url(#glow)"/>
+    <rect x="0" y="232" width="1200" height="88" fill="url(#floorFade)"/>
+    <g class="grid" mask="url(#gridMask)">
+      <line x1="152" y1="232" x2="-2440" y2="320"/>
+      <line x1="180" y1="232" x2="-2250" y2="320"/>
+      <line x1="208" y1="232" x2="-2060" y2="320"/>
+      <line x1="236" y1="232" x2="-1870" y2="320"/>
+      <line x1="264" y1="232" x2="-1680" y2="320"/>
+      <line x1="292" y1="232" x2="-1490" y2="320"/>
+      <line x1="320" y1="232" x2="-1300" y2="320"/>
+      <line x1="348" y1="232" x2="-1110" y2="320"/>
+      <line x1="376" y1="232" x2="-920" y2="320"/>
+      <line x1="404" y1="232" x2="-730" y2="320"/>
+      <line x1="432" y1="232" x2="-540" y2="320"/>
+      <line x1="460" y1="232" x2="-350" y2="320"/>
+      <line x1="488" y1="232" x2="-160" y2="320"/>
+      <line x1="516" y1="232" x2="30" y2="320"/>
+      <line x1="544" y1="232" x2="220" y2="320"/>
+      <line x1="572" y1="232" x2="410" y2="320"/>
+      <line x1="600" y1="232" x2="600" y2="320"/>
+      <line x1="628" y1="232" x2="790" y2="320"/>
+      <line x1="656" y1="232" x2="980" y2="320"/>
+      <line x1="684" y1="232" x2="1170" y2="320"/>
+      <line x1="712" y1="232" x2="1360" y2="320"/>
+      <line x1="740" y1="232" x2="1550" y2="320"/>
+      <line x1="768" y1="232" x2="1740" y2="320"/>
+      <line x1="796" y1="232" x2="1930" y2="320"/>
+      <line x1="824" y1="232" x2="2120" y2="320"/>
+      <line x1="852" y1="232" x2="2310" y2="320"/>
+      <line x1="880" y1="232" x2="2500" y2="320"/>
+      <line x1="908" y1="232" x2="2690" y2="320"/>
+      <line x1="936" y1="232" x2="2880" y2="320"/>
+      <line x1="964" y1="232" x2="3070" y2="320"/>
+      <line x1="992" y1="232" x2="3260" y2="320"/>
+      <line x1="1020" y1="232" x2="3450" y2="320"/>
+      <line x1="1048" y1="232" x2="3640" y2="320"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-0.0s"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-0.53s"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-1.07s"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-1.6s"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-2.13s"/>
+      <line class="hl" x1="0" y1="232" x2="1200" y2="232" style="animation-delay:-2.67s"/>
+    </g>
+    <rect x="0" y="231" width="1200" height="2.5" fill="url(#horizon)"/>
+
+    <!-- ringed planet -->
+    <g class="float">
+      <circle cx="1060" cy="112" r="70" fill="url(#glow)"/>
+      <g transform="translate(1060 112) rotate(-16)">
+        <ellipse rx="86" ry="18" fill="none" stroke="#ABB2BF" stroke-width="5" opacity=".55"/>
+      </g>
+      <circle cx="1060" cy="112" r="46" fill="url(#planet)" stroke="#1B1E24" stroke-width="3"/>
+      <circle cx="1045" cy="98" r="7" fill="#9B5AB0" opacity=".7"/>
+      <circle cx="1075" cy="126" r="10" fill="#9B5AB0" opacity=".6"/>
+      <circle cx="1068" cy="92" r="4" fill="#9B5AB0" opacity=".7"/>
+      <path d="M1030 96 A34 34 0 0 1 1052 76" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+      <g transform="translate(1060 112) rotate(-16)">
+        <ellipse rx="86" ry="18" fill="none" stroke="#ABB2BF" stroke-width="5" clip-path="url(#ringFront)"/>
+      </g>
+      <g class="orbit"><circle cx="1060" cy="22" r="7" fill="#56B6C2" stroke="#1B1E24" stroke-width="2"/></g>
+    </g>
+
+    <!-- cartoon robot -->
+    <g transform="translate(118 78)">
+      <g class="bob">
+        <path class="flame" d="M28 112 Q40 150 52 112 Z" fill="#C778DD" opacity=".9"/>
+        <path class="flame" d="M33 112 Q40 136 47 112 Z" fill="#fff" opacity=".9"/>
+        <line x1="40" y1="0" x2="40" y2="-16" stroke="#ABB2BF" stroke-width="3"/>
+        <circle class="bulb" cx="40" cy="-20" r="6" stroke="#1B1E24" stroke-width="2"/>
+        <rect x="-6" y="18" width="10" height="22" rx="4" fill="#C778DD"/>
+        <rect x="76" y="18" width="10" height="22" rx="4" fill="#C778DD"/>
+        <rect x="0" y="0" width="80" height="58" rx="18" fill="#3E4451" stroke="#C778DD" stroke-width="3"/>
+        <rect x="10" y="11" width="60" height="36" rx="12" fill="#1B1E24"/>
+        <ellipse class="blink" cx="28" cy="27" rx="6" ry="8" fill="#56B6C2"/>
+        <ellipse class="blink" cx="52" cy="27" rx="6" ry="8" fill="#56B6C2"/>
+        <path d="M31 38 Q40 45 49 38" fill="none" stroke="#56B6C2" stroke-width="3" stroke-linecap="round"/>
+        <rect x="14" y="64" width="52" height="44" rx="14" fill="#3E4451" stroke="#C778DD" stroke-width="3"/>
+        <circle class="pulse" cx="40" cy="84" r="8" fill="#C778DD"/>
+        <path d="M14 76 Q2 90 6 104" fill="none" stroke="#3E4451" stroke-width="8" stroke-linecap="round"/>
+        <g class="wave">
+          <path d="M66 76 Q84 70 90 52" fill="none" stroke="#3E4451" stroke-width="8" stroke-linecap="round"/>
+          <circle cx="91" cy="48" r="6" fill="#C778DD"/>
+        </g>
+      </g>
+      <ellipse cx="40" cy="172" rx="34" ry="6" fill="#000" opacity=".35" class="pulse"/>
+    </g>
+
+    <!-- text -->
+    <text x="600" y="66" text-anchor="middle" class="mono" font-size="15" fill="#C778DD" letter-spacing="2">// hello_world, i'm</text>
+    <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="48" text-anchor="middle">
+      <text class="ga" x="600" y="122" textLength="640" lengthAdjust="spacingAndGlyphs" fill="#56B6C2">Dewan Salman Rahman Zisan</text>
+      <text class="gb" x="600" y="122" textLength="640" lengthAdjust="spacingAndGlyphs" fill="#E06C75">Dewan Salman Rahman Zisan</text>
+      <text x="600" y="122" textLength="640" lengthAdjust="spacingAndGlyphs" fill="#fff" filter="url(#neon)">Dewan Salman Rahman Zisan</text>
+    </g>
+    <g clip-path="url(#typing)">
+      <text x="600" y="170" text-anchor="middle" class="mono" font-size="19" fill="#ABB2BF" textLength="480" lengthAdjust="spacingAndGlyphs"><tspan fill="#C778DD">&gt;</tspan> CSE @ KUET  ·  Founder, Logarithm Studio</text>
+    </g>
+    <rect class="cursor" x="360" y="153" width="10" height="21" fill="#C778DD">
+      <animate attributeName="x" values="360;842;842;360" keyTimes="0;.35;.9;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- HUD -->
+    <path class="hud" d="M16 44 V16 H44 M1156 16 H1184 V44 M1184 276 V304 H1156 M44 304 H16 V276"/>
+    <g class="mono" font-size="11" fill="#ABB2BF" opacity=".7">
+      <text x="28" y="34"><tspan fill="#56B6C2" class="pulse">●</tspan> SYS.ONLINE</text>
+      <text x="1172" y="34" text-anchor="end">KUET // CSE</text>
+    </g>
+
+    <!-- scanline -->
+    <rect class="scan" x="0" y="0" width="1200" height="3" fill="#C778DD" opacity=".08"/>
+  </g>
+</svg>

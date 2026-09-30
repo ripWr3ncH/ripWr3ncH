@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Thanks for visiting">
+  <title>Thanks for visiting</title>
+  <defs>
+    <linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B1E24"/><stop offset="1" stop-color="#3A2A45"/>
+    </linearGradient>
+    <linearGradient id="ffloor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A2A45"/><stop offset="1" stop-color="#1B1E24"/>
+    </linearGradient>
+    <linearGradient id="fhorizon" x1="0" x2="1">
+      <stop offset="0" stop-color="#C778DD" stop-opacity="0"/><stop offset=".5" stop-color="#C778DD"/><stop offset="1" stop-color="#C778DD" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fgridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".5"/>
+    </linearGradient>
+    <mask id="fgridMask"><rect x="0" y="58" width="1200" height="72" fill="url(#fgridFade)"/></mask>
+    <clipPath id="fframe"><rect width="1200" height="130" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .star { fill:#fff; animation: twinkle 3s ease-in-out infinite; }
+    @keyframes twinkle { 0%,100% { opacity:.15 } 50% { opacity:1 } }
+    .grid line { stroke:#C778DD; stroke-width:1.2; }
+    .hl { animation: floor var(--dur) cubic-bezier(.6,0,1,.6) infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+    :root { --dur:2.6s; }
+    @keyframes floor { 0% { transform:translateY(0); opacity:0 } 15% { opacity:1 } 100% { transform:translateY(72px); opacity:1 } }
+    .ufo { animation: fly 14s linear infinite; }
+    @keyframes fly { from { transform:translateX(-120px) } to { transform:translateX(1320px) } }
+    .hover { animation: hover 1.4s ease-in-out infinite; }
+    @keyframes hover { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-5px) } }
+    .lights circle { animation: lights .9s steps(1) infinite; }
+    @keyframes lights { 0% { fill:#56B6C2 } 50% { fill:#C778DD } }
+    .beam { animation: beam 2s ease-in-out infinite; }
+    @keyframes beam { 0%,100% { opacity:.05 } 50% { opacity:.3 } }
+  </style>
+  <g clip-path="url(#fframe)">
+    <rect width="1200" height="130" fill="url(#fsky)"/>
+    <circle class="star" cx="1172" cy="43" r="0.8" style="animation-delay:-0.34s;animation-duration:2.83s"/>
+    <circle class="star" cx="1079" cy="18" r="1" style="animation-delay:-3.28s;animation-duration:4.15s"/>
+    <circle class="star" cx="954" cy="18" r="0.8" style="animation-delay:-1.08s;animation-duration:2.24s"/>
+    <circle class="star" cx="115" cy="21" r="2" style="animation-delay:-3.42s;animation-duration:2.35s"/>
+    <circle class="star" cx="1028" cy="29" r="1.2" style="animation-delay:-3.98s;animation-duration:3.16s"/>
+    <circle class="star" cx="1090" cy="36" r="0.8" style="animation-delay:-2.11s;animation-duration:2.75s"/>
+    <circle class="star" cx="139" cy="17" r="0.8" style="animation-delay:-0.72s;animation-duration:4.34s"/>
+    <circle class="star" cx="253" cy="29" r="1" style="animation-delay:-1.08s;animation-duration:4.05s"/>
+    <circle class="star" cx="1184" cy="12" r="0.8" style="animation-delay:-2.93s;animation-duration:3.47s"/>
+    <circle class="star" cx="234" cy="30" r="1.6" style="animation-delay:-0.43s;animation-duration:4.08s"/>
+    <circle class="star" cx="995" cy="27" r="2" style="animation-delay:-1.23s;animation-duration:2.69s"/>
+    <circle class="star" cx="281" cy="18" r="1" style="animation-delay:-1.62s;animation-duration:3.0s"/>
+    <circle class="star" cx="74" cy="15" r="0.8" style="animation-delay:-2.5s;animation-duration:4.22s"/>
+    <circle class="star" cx="607" cy="51" r="2" style="animation-delay:-0.97s;animation-duration:2.87s"/>
+    <circle class="star" cx="1145" cy="51" r="2" style="animation-delay:-1.29s;animation-duration:2.28s"/>
+    <circle class="star" cx="1051" cy="19" r="1" style="animation-delay:-0.0s;animation-duration:3.08s"/>
+    <circle class="star" cx="247" cy="31" r="0.8" style="animation-delay:-0.36s;animation-duration:4.08s"/>
+    <circle class="star" cx="180" cy="35" r="1.6" style="animation-delay:-0.09s;animation-duration:2.9s"/>
+    <rect x="0" y="58" width="1200" height="72" fill="url(#ffloor)"/>
+    <g class="grid" mask="url(#fgridMask)">
+      <line x1="152" y1="58" x2="-2440" y2="130"/>
+      <line x1="180" y1="58" x2="-2250" y2="130"/>
+      <line x1="208" y1="58" x2="-2060" y2="130"/>
+      <line x1="236" y1="58" x2="-1870" y2="130"/>
+      <line x1="264" y1="58" x2="-1680" y2="130"/>
+      <line x1="292" y1="58" x2="-1490" y2="130"/>
+      <line x1="320" y1="58" x2="-1300" y2="130"/>
+      <line x1="348" y1="58" x2="-1110" y2="130"/>
+      <line x1="376" y1="58" x2="-920" y2="130"/>
+      <line x1="404" y1="58" x2="-730" y2="130"/>
+      <line x1="432" y1="58" x2="-540" y2="130"/>
+      <line x1="460" y1="58" x2="-350" y2="130"/>
+      <line x1="488" y1="58" x2="-160" y2="130"/>
+      <line x1="516" y1="58" x2="30" y2="130"/>
+      <line x1="544" y1="58" x2="220" y2="130"/>
+      <line x1="572" y1="58" x2="410" y2="130"/>
+      <line x1="600" y1="58" x2="600" y2="130"/>
+      <line x1="628" y1="58" x2="790" y2="130"/>
+      <line x1="656" y1="58" x2="980" y2="130"/>
+      <line x1="684" y1="58" x2="1170" y2="130"/>
+      <line x1="712" y1="58" x2="1360" y2="130"/>
+      <line x1="740" y1="58" x2="1550" y2="130"/>
+      <line x1="768" y1="58" x2="1740" y2="130"/>
+      <line x1="796" y1="58" x2="1930" y2="130"/>
+      <line x1="824" y1="58" x2="2120" y2="130"/>
+      <line x1="852" y1="58" x2="2310" y2="130"/>
+      <line x1="880" y1="58" x2="2500" y2="130"/>
+      <line x1="908" y1="58" x2="2690" y2="130"/>
+      <line x1="936" y1="58" x2="2880" y2="130"/>
+      <line x1="964" y1="58" x2="3070" y2="130"/>
+      <line x1="992" y1="58" x2="3260" y2="130"/>
+      <line x1="1020" y1="58" x2="3450" y2="130"/>
+      <line x1="1048" y1="58" x2="3640" y2="130"/>
+      <line class="hl" x1="0" y1="58" x2="1200" y2="58" style="animation-delay:-0.0s"/>
+      <line class="hl" x1="0" y1="58" x2="1200" y2="58" style="animation-delay:-0.52s"/>
+      <line class="hl" x1="0" y1="58" x2="1200" y2="58" style="animation-delay:-1.04s"/>
+      <line class="hl" x1="0" y1="58" x2="1200" y2="58" style="animation-delay:-1.56s"/>
+      <line class="hl" x1="0" y1="58" x2="1200" y2="58" style="animation-delay:-2.08s"/>
+    </g>
+    <rect x="0" y="57" width="1200" height="2.5" fill="url(#fhorizon)"/>
+    <text x="600" y="36" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="15" fill="#ABB2BF" letter-spacing="1"><tspan fill="#C778DD">//</tspan> thanks for stopping by <tspan fill="#C778DD">—</tspan> see you in the next commit</text>
+    <g class="ufo">
+      <g transform="translate(0 10)"><g class="hover">
+        <path class="beam" d="M-10 30 L10 30 L26 130 L-26 130 Z" fill="#56B6C2"/>
+        <ellipse cx="0" cy="12" rx="14" ry="12" fill="#56B6C2" opacity=".5" stroke="#fff" stroke-width="1.5"/>
+        <ellipse cx="0" cy="24" rx="34" ry="10" fill="#3E4451" stroke="#C778DD" stroke-width="2.5"/>
+        <g class="lights">
+          <circle cx="-20" cy="25" r="3" style="animation-delay:0s"/>
+          <circle cx="0" cy="28" r="3" style="animation-delay:-.3s"/>
+          <circle cx="20" cy="25" r="3" style="animation-delay:-.6s"/>
+        </g>
+      </g></g>
+    </g>
+  </g>
+</svg>
