@@ -73,7 +73,7 @@ I'm a Computer Science & Engineering undergraduate at **Khulna University of Eng
 | 🏆 | **Champion** | Build with Gemma Hybrid Hackathon — sponsored by Google | Hybrid Hackathon |
 | 🥉 | **2nd Runner-up** | BUET CSE Fest 2026 Hackathon | Microservices & DevOps |
 | 🥉 | **2nd Runner-up** | IUT Techathon Nationals & Rover Summit 2026 | Hackathon Segment |
-| ⭐ | **Finalist** | BCOLBD Blockchain Olympiad 2026 | Hackathon Segment |
+| ⭐ | **Finalist** | BCOLBD Blockchain Olympiad 2026 | BlockChain Segment |
 | 🥉 | **2nd Runner-up** | KUET HACK | Project Showcasing |
 | ⭐ | **Pupil** | Codeforces | Competitive Programming |
 | 🎓 | **Dean's List eligible** | KUET | 2nd & 3rd Year |
